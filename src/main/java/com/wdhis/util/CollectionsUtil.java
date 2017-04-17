@@ -74,10 +74,6 @@ import com.google.common.primitives.Longs;
 public class CollectionsUtil
 {
 
-	
-	
-	
-	
     /**
      * 判断是否为空.
      */
