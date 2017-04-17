@@ -79,6 +79,7 @@ public class CollectionsUtil
      */
     public static boolean isEmpty(Collection collection)
     {
+    	
         return (collection == null) || collection.isEmpty();
     }
 
